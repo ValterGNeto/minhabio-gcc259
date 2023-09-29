@@ -1,4 +1,4 @@
-# Valter Granato Neto - ![Foto](./foto.jpg)
+# <img src="./foto.jpg" width="50"> Valter Granato Neto
 (+55) 11 9 4441-4149 | valtergranaton@gmail.com | [valtergranatoneto](https://www.linkedin.com/in/valtergranatoneto/ "Linkedin")
 ## Resumo
 Técnico em informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo e cursando o 9º semestre de Ciência da Computação na Universidade Federal de Lavras. Trabalhando como bolsista através da Agência Zetta no desenvolvimento do Sistema Nacional de Informações sobre Irrigação para o Ministério do Desenvolvimento Regional.
