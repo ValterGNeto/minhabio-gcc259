@@ -13,7 +13,7 @@ Técnico em informática pelo Instituto Federal de Educação, Ciência e Tecnol
 ## Formação
 ### UFLA ‑ Universidade Federal de Lavras - (Agosto 2019 / Atual)
 * Graduação em Ciência da Computação
-### IFSP ‑ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Janeiro 2016 ‑ Dezembro 2018
+### IFSP ‑ Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - (Janeiro 2016 / Dezembro 2018)
 * Técnico em Informática
 ## Competências
 * **Back‑end:** Java, PHP, SpringBoot, RESTful API
@@ -23,6 +23,6 @@ Técnico em informática pelo Instituto Federal de Educação, Ciência e Tecnol
 * **DevOps:** Docker, Docker Compose, Git
 * **Línguas:** Inglês ‑ Básico
 ## Outras Atividades
-### Monitoria - Janeiro 2022 ‑ Julho 2022
+### Monitoria - (Janeiro 2022 / Julho 2022)
 * Monitoria na Disciplina de Linguagens Formais e Autônomos
   * Esclarecimento de dúvidas dos alunos na disciplina
